@@ -1,0 +1,106 @@
+[27-Mar-2018 12:36:30 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:36:30 UTC] PHP Stack trace:
+[27-Mar-2018 12:36:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:36:30 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:36:30 UTC] PHP Stack trace:
+[27-Mar-2018 12:36:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:37:40 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:37:40 UTC] PHP Stack trace:
+[27-Mar-2018 12:37:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:37:40 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:37:40 UTC] PHP Stack trace:
+[27-Mar-2018 12:37:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:38:40 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:38:40 UTC] PHP Stack trace:
+[27-Mar-2018 12:38:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:38:40 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:38:40 UTC] PHP Stack trace:
+[27-Mar-2018 12:38:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:41:07 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:41:07 UTC] PHP Stack trace:
+[27-Mar-2018 12:41:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:41:07 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:41:07 UTC] PHP Stack trace:
+[27-Mar-2018 12:41:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:52:48 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:52:48 UTC] PHP Stack trace:
+[27-Mar-2018 12:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 12:52:48 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 12:52:48 UTC] PHP Stack trace:
+[27-Mar-2018 12:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 13:58:32 UTC] PHP Fatal error:  Call to undefined method OC\PlatformBundle\Controller\AdvertController::get() in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 14
+[27-Mar-2018 13:58:32 UTC] PHP Stack trace:
+[27-Mar-2018 13:58:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 13:58:32 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 13:58:32 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 13:58:32 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 13:58:32 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:58:32 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:58:40 UTC] PHP Fatal error:  Call to undefined method OC\PlatformBundle\Controller\AdvertController::get() in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 14
+[27-Mar-2018 13:58:40 UTC] PHP Stack trace:
+[27-Mar-2018 13:58:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 13:58:40 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 13:58:40 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 13:58:40 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 13:58:40 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:58:40 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:59:03 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 13:59:03 UTC] PHP Stack trace:
+[27-Mar-2018 13:59:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 13:59:03 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 13:59:03 UTC] PHP Stack trace:
+[27-Mar-2018 13:59:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 13:59:13 UTC] PHP Fatal error:  Call to undefined method OC\PlatformBundle\Controller\AdvertController::get() in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 14
+[27-Mar-2018 13:59:13 UTC] PHP Stack trace:
+[27-Mar-2018 13:59:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 13:59:13 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 13:59:13 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 13:59:13 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 13:59:13 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:59:13 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:59:30 UTC] PHP Fatal error:  Call to undefined method OC\PlatformBundle\Controller\AdvertController::get() in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 14
+[27-Mar-2018 13:59:30 UTC] PHP Stack trace:
+[27-Mar-2018 13:59:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 13:59:30 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 13:59:30 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 13:59:30 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 13:59:30 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:59:30 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:59:43 UTC] PHP Fatal error:  Call to undefined method OC\PlatformBundle\Controller\AdvertController::get() in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 14
+[27-Mar-2018 13:59:43 UTC] PHP Stack trace:
+[27-Mar-2018 13:59:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 13:59:43 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 13:59:43 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 13:59:43 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 13:59:43 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 13:59:43 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 15:11:05 UTC] PHP Fatal error:  Class 'OC\PlatformBundle\Controller\UrlGeneratorInterface' not found in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 16
+[27-Mar-2018 15:11:05 UTC] PHP Stack trace:
+[27-Mar-2018 15:11:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 15:11:05 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 15:11:05 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 15:11:05 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 15:11:05 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 15:11:05 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 15:12:16 UTC] PHP Fatal error:  Class 'OC\PlatformBundle\Controller\UrlGeneratorInterface' not found in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 16
+[27-Mar-2018 15:12:16 UTC] PHP Stack trace:
+[27-Mar-2018 15:12:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 15:12:16 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 15:12:16 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 15:12:16 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 15:12:16 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 15:12:16 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 15:14:59 UTC] PHP Fatal error:  Call to undefined method OC\PlatformBundle\Controller\AdvertController::debug() in /home/ubuntu/workspace/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php on line 16
+[27-Mar-2018 15:14:59 UTC] PHP Stack trace:
+[27-Mar-2018 15:14:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app_dev.php:0
+[27-Mar-2018 15:14:59 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/Symfony/web/app_dev.php:30
+[27-Mar-2018 15:14:59 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/Symfony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:171
+[27-Mar-2018 15:14:59 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4394
+[27-Mar-2018 15:14:59 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439}() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 15:14:59 UTC] PHP   6. OC\PlatformBundle\Controller\AdvertController->indexAction() /home/ubuntu/workspace/Symfony/var/cache/dev/classes.php:4439
+[27-Mar-2018 15:18:18 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache): failed to open stream: No such file or directory in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 15:18:18 UTC] PHP Stack trace:
+[27-Mar-2018 15:18:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
+[27-Mar-2018 15:18:18 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Symfony/web/../var/bootstrap.php.cache' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Symfony/web/app.php on line 8
+[27-Mar-2018 15:18:18 UTC] PHP Stack trace:
+[27-Mar-2018 15:18:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Symfony/web/app.php:0
